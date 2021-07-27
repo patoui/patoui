@@ -24,7 +24,7 @@ I'm a Senior Enginner primarly working in/with PHP but love discovering/trying n
 
 Not listed in any particular order and likely missing a few 😅️, also stats might be a little misleading as they might 
 
-- 💻 &nbsp; PHP | Laravel | JavaScript | Vue | React | Ruby | Go
+- 💻 &nbsp; PHP | Laravel | JavaScript | Vue | React
 - 🌐 &nbsp; HTML | CSS | SASS | Bootstrap | Tailwind
 - 🛢 &nbsp; MySQL | Redis | Clickhouse | SQLite
 - 🔧 &nbsp; PHPStorm | Sublime Text | Visual Studio Code | Git
