@@ -15,6 +15,7 @@ I'm a Senior Enginner primarly working in/with PHP but love discovering/trying n
 
   - 🕸️ [Website](https://patriqueouimet.ca)
   - 🐙️ [GitHub](https://github.com/patoui)
+  - 🐦️ [Twitter](https://twitter.com/patoui2)
   - ◻️ [Polywork](https://polywork.com/patoui)
   - 📸️ [Instagram](https://instagram.com/patoui2)
   - 👨‍💻️ [LinkedIn](https://linkedin.com/in/patrique-ouimet-8b2aa969)
