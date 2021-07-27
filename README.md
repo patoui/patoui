@@ -20,9 +20,9 @@ I'm a Senior Enginner primarly working in/with PHP but love discovering/trying n
   - 📸️ [Instagram](https://instagram.com/patoui2)
   - 👨‍💻️ [LinkedIn](https://linkedin.com/in/patrique-ouimet-8b2aa969)
 
-### Technologies 🔭️
+### 🔭️ Technologies
 
-Not listed in any particular order and likely missing a few 😅️, also stats might be a little misleading as they might 
+Not listed in any particular order and likely missing a few 😅️
 
 - 💻 &nbsp; PHP | Laravel | JavaScript | Vue | React
 - 🌐 &nbsp; HTML | CSS | SASS | Bootstrap | Tailwind
