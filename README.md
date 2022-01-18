@@ -6,7 +6,7 @@ I'm a Senior Enginner primarly working in/with PHP but love discovering/trying n
 
 - 🔭 I’m currently working on a variety of PHP projects utilizing some great open source projects! [Laravel](https://laravel.com/), [Slim](https://www.slimframework.com/), [Guzzle](https://docs.guzzlephp.org/en/stable/)
 - 🌱 I’m currently learning [Go](https://golang.org/) lang! Big thanks to [GoTime](https://twitter.com/GoTimeFM) and [Go With Domain](https://threedots.tech/go-with-the-domain/)
-- I'm also currently learning [TypeScript](https://www.typescriptlang.org/) with [Deno](https://deno.land) 🦕
+- 🦕 I'm also currently learning [TypeScript](https://www.typescriptlang.org/) with [Deno](https://deno.land)
 - ✌️ I’m looking to collaborate on anything OSS but haven't quite found something I'm very interested in yet (open to suggestions!)
 - 🙋‍♂️️ Pronouns: he/him
 - ❤️ Beer🍺️, Coffee ☕️, Cycling 🚴‍♂️️, Hiking 🗻️, Camping 🏕️
