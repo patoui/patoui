@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Pat! 😄
 
-I'm a Senior Engineer primarily working in/with PHP but love discovering/trying new technologies (currently learning Go lang)!
+I'm a Staff Engineer primarily working in/with PHP but love discovering/trying new technologies (currently learning Go lang)!
 
 ### 🙋‍♂️️ About me
 
