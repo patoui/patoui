@@ -5,7 +5,7 @@ I'm a Senior Software Engineer primarily working in/with PHP but love discoverin
 ### 🙋‍♂️️ About me
 
 - 🔭 I’m currently working on a variety of PHP projects utilizing some great open source projects! [Laravel](https://laravel.com/), [Slim](https://www.slimframework.com/), [Guzzle](https://docs.guzzlephp.org/en/stable/)
-- ⚛ I’m currently re-learning [React](https://reactjs.org/) and [React Native](https://reactnative.dev/)!
+- ⚛ I’m currently using [React](https://reactjs.org/) and [React Native](https://reactnative.dev/) to make a mobile app!
 - 🌱 I’m interested in [Go](https://golang.org/) lang!
 - 🦕 I'm interested in [TypeScript](https://www.typescriptlang.org/) and [Deno](https://deno.land)
 - ✌️ I’m looking to collaborate on anything OSS but haven't quite found something I'm very interested in yet (open to suggestions!)
