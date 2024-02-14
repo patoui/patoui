@@ -6,7 +6,7 @@ I'm a Senior Software Engineer primarily working in/with PHP but love discoverin
 
 - 🔭 I’m currently working on a variety of PHP projects utilizing some great open source projects! [Laravel](https://laravel.com/), [Slim](https://www.slimframework.com/), [Guzzle](https://docs.guzzlephp.org/en/stable/)
 - ⚛ I’m currently using [React](https://reactjs.org/) and [React Native](https://reactnative.dev/) to make a mobile app!
-- 🌱 I’m interested in [Go](https://golang.org/) lang!
+- ❤️ I’m interested in [Go](https://golang.org/) lang!
 - 🦕 I'm interested in [TypeScript](https://www.typescriptlang.org/) and [Deno](https://deno.land)
 - ✌️ I’m looking to collaborate on anything OSS but haven't quite found something I'm very interested in yet (open to suggestions!)
 - 🙋‍♂️️ Pronouns: he/him
@@ -27,9 +27,9 @@ I'm a Senior Software Engineer primarily working in/with PHP but love discoverin
 
 Not listed in any particular order and likely missing a few 😅️
 
-- 💻 &nbsp; PHP | Laravel | JavaScript | Vue | React
+- 💻 &nbsp; PHP | Laravel | JavaScript | Vue | React | React Native
 - 🌐 &nbsp; HTML | CSS | SASS | Bootstrap | Tailwind
-- 🛢 &nbsp; MySQL | Redis | Clickhouse | SQLite
-- 🔧 &nbsp; PHPStorm | Sublime Text | Visual Studio Code | Git
+- 🛢 &nbsp; MySQL | Redis | Clickhouse | SQLite | Mongo
+- 🔧 &nbsp; PHPStorm | Sublime Text | Visual Studio Code | Zed | Neovim | Git
 - 🖥 &nbsp; Nginx | Apache | Caddy | Docker | Vagrant
 - 🛸️ &nbsp; Linux | Bash | AWS | Digital Ocean
