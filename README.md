@@ -27,9 +27,9 @@ I'm a Senior Software Engineer primarily working in/with PHP but love discoverin
 
 Not listed in any particular order and likely missing a few 😅️
 
-- 💻 &nbsp; PHP | Laravel | JavaScript | Vue | React | React Native
+- 💻 &nbsp; PHP | Go | Laravel | JavaScript | TypeScript | Vue | React | React Native
 - 🌐 &nbsp; HTML | CSS | SASS | Bootstrap | Tailwind
-- 🛢 &nbsp; MySQL | Redis | Clickhouse | SQLite | Mongo
+- 🛢 &nbsp; MySQL | Redis | Typesense | Clickhouse | SQLite | Mongo
 - 🔧 &nbsp; PHPStorm | Sublime Text | Visual Studio Code | Zed | Neovim | Git
 - 🖥 &nbsp; Nginx | Apache | Caddy | Docker | Vagrant
 - 🛸️ &nbsp; Linux | Bash | AWS | Digital Ocean
