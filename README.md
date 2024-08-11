@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Pat! 😄
 
-I'm a Senior Software Engineer primarily working in/with PHP but love discovering/trying new technologies (currently learning Go lang and TypeScript)!
+I'm a Senior Product Engineer primarily working in/with PHP but love discovering/trying new technologies (currently learning Go lang and TypeScript)!
 
 ### 🙋‍♂️️ About me
 
