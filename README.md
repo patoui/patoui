@@ -22,6 +22,7 @@ I'm a Senior Product Engineer primarily working in/with PHP but love discovering
   - 📸️ [Instagram](https://instagram.com/patoui2)
   - 👨‍💻️ [LinkedIn](https://linkedin.com/in/patrique-ouimet-8b2aa969)
   - 🐘️ [PHP Social](https://phpc.social/web/accounts/106705262503935129)
+  - 🦋 [Bluesky](https://bsky.app/profile/patoui.bsky.social)
 
 ### 🔭️ Technologies
 
