@@ -18,7 +18,6 @@ I'm a Senior Product Engineer primarily working in/with PHP but love discovering
   - 🕸️ [Website](https://patriqueouimet.ca)
   - 🐙️ [GitHub](https://github.com/patoui)
   - 🐦️ [Twitter](https://twitter.com/patoui2)
-  - ◻️ [Polywork](https://polywork.com/patoui)
   - 📸️ [Instagram](https://instagram.com/patoui2)
   - 👨‍💻️ [LinkedIn](https://linkedin.com/in/patrique-ouimet-8b2aa969)
   - 🐘️ [PHP Social](https://phpc.social/web/accounts/106705262503935129)
