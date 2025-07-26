@@ -4,12 +4,12 @@ I'm a Senior Product Engineer primarily working in/with PHP but love discovering
 
 ### 🙋‍♂️️ About me
 
-- 🔭 I’m currently working on a variety of PHP projects utilizing some great open source projects! [Laravel](https://laravel.com/), [Slim](https://www.slimframework.com/), [Guzzle](https://docs.guzzlephp.org/en/stable/)
-- ⚛ I’m currently using [React](https://reactjs.org/) and [React Native](https://reactnative.dev/) to make a mobile app!
-- ❤️ I’m interested in [Go](https://golang.org/) lang!
-- 🦕 I'm interested in [TypeScript](https://www.typescriptlang.org/) and [Deno](https://deno.land)
+- 🛢 I enjoy working with large datasets as I find the challenges, technologies, and strategies facinating. I've finished reading [Designing Data Intensive Applications - Martin Kleppmann](https://dataintensive.net/) on this topic and gained some valuable knowledge and insights, I highly recommend this book
+- 🔭 I’m currently working on a variety of PHP projects utilizing some great open source projects! [Laravel](https://laravel.com/), [Inertia](https://inertiajs.com/), [Vue](https://vuejs.org/)
+- 🏠 I'm currently working on a [Laravel package](https://github.com/patoui/laravel-clickhouse) which wraps the [ClickHouse](https://clickhouse.com/) extension by [SeasClick](https://github.com/SeasX/SeasClick)!
+- 🌱 Facinated by [Go lang](https://go.dev/)! Big thanks to [GoTime](https://x.com/GoTimeFM) and [Go With Domain](https://threedots.tech/go-with-the-domain/)
+- 🦕 Intrigued by the [Deno](https://deno.land) runtime, looking for excuses to build something with it!
 - ✌️ I’m looking to collaborate on anything OSS but haven't quite found something I'm very interested in yet (open to suggestions!)
-- 🙋‍♂️️ Pronouns: he/him
 - ❤️ Beer🍺️, Coffee ☕️, Cycling 🚴‍♂️️, Hiking 🗻️, Camping 🏕️
 
 
