@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Pat! 😄
 
-I'm a Senior Backend Engineer primarily working in/with TypeScript/NodeJS but love discovering/trying new technologies!
+I'm a Senior Backend Software Engineer primarily working in/with TypeScript/NodeJS but love discovering/trying new technologies!
 
 ### 🙋‍♂️️ About me
 
