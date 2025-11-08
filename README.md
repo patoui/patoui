@@ -6,7 +6,7 @@ I'm a Senior Backend Engineer primarily working in/with TypeScript/NodeJS but lo
 
 - 🛢 I enjoy working with large datasets as I find the challenges, technologies, and strategies facinating. I've finished reading [Designing Data Intensive Applications - Martin Kleppmann](https://dataintensive.net/) on this topic and gained some valuable knowledge and insights, I highly recommend this book
 - 📖 I’m currently reading [Node.js Design Patterns](https://nodejsdesignpatterns.com/)!
-- 🎥 I'm currently refresh my knowledge of NodeJS with [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/) course!
+- 🎥 I'm currently refreshing my knowledge of NodeJS with [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/) course!
 - 🏠 Fascinated by [ClickHouse](https://clickhouse.com/) and always looking for excuses to use it!
 - 🦕 Intrigued by the [Deno](https://deno.land) runtime, looking for excuses to build something with it!
 - ✌️ I’m looking to collaborate on anything OSS but haven't quite found something I'm very interested in yet (open to suggestions!)
